@@ -1,7 +1,7 @@
 # Financial_Sales_Report_using_PowerBI
 
 ## Project Overview:
-This project aims to demonstrate the process of financial data analysis using Power BI. Through four steps, I'll guide you through various aspects, including the Power BI interface, data loading and validation, creating reference files, and establishing relationships between data tables. By the end of the project, you'll have a comprehensive understanding of how to leverage Power BI for financial analysis tasks.
+This project aims to demonstrate the process of financial data analysis using Power BI. Through four steps, I'll guide you through various aspects, including the Power BI interface, data loading and validation, creating reference files, and establishing relationships between data tables. By the end of the project, we will have a comprehensive understanding of how to leverage Power BI for financial analysis tasks.
 
 ### Step 1: Introduction to Power BI for Financial Data Analysis
 In this step, I introduce myself as a certified data analyst and Microsoft Certified Trainer. I provide an overview of Power BI and its advantages for financial data analysis. We explore key features of a sample financial data report, including card visualizations, treemaps, matrix visualizations, and column charts.
